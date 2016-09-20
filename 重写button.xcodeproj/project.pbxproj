@@ -15,6 +15,9 @@
 		A15FF5141D8252FD00236074 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A15FF5121D8252FD00236074 /* LaunchScreen.storyboard */; };
 		A15FF51F1D8252FD00236074 /* __buttonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A15FF51E1D8252FD00236074 /* __buttonTests.m */; };
 		A15FF52A1D8252FD00236074 /* __buttonUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A15FF5291D8252FD00236074 /* __buttonUITests.m */; };
+		A15FF5381D82577F00236074 /* 08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A15FF5371D82577F00236074 /* 08.jpg */; };
+		A15FF53A1D82578400236074 /* yxlm6_1366.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A15FF5391D82578400236074 /* yxlm6_1366.jpg */; };
+		A15FF53C1D8258D400236074 /* i-mine-shoucang@2x副本.png in Resources */ = {isa = PBXBuildFile; fileRef = A15FF53B1D8258D400236074 /* i-mine-shoucang@2x副本.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +54,9 @@
 		A15FF5251D8252FD00236074 /* 重写buttonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "重写buttonUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A15FF5291D8252FD00236074 /* __buttonUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __buttonUITests.m; sourceTree = "<group>"; };
 		A15FF52B1D8252FD00236074 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A15FF5371D82577F00236074 /* 08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 08.jpg; sourceTree = "<group>"; };
+		A15FF5391D82578400236074 /* yxlm6_1366.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yxlm6_1366.jpg; sourceTree = "<group>"; };
+		A15FF53B1D8258D400236074 /* i-mine-shoucang@2x副本.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "i-mine-shoucang@2x副本.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +107,9 @@
 		A15FF5031D8252FD00236074 /* 重写button */ = {
 			isa = PBXGroup;
 			children = (
+				A15FF53B1D8258D400236074 /* i-mine-shoucang@2x副本.png */,
+				A15FF5391D82578400236074 /* yxlm6_1366.jpg */,
+				A15FF5371D82577F00236074 /* 08.jpg */,
 				A15FF5071D8252FD00236074 /* AppDelegate.h */,
 				A15FF5081D8252FD00236074 /* AppDelegate.m */,
 				A15FF50A1D8252FD00236074 /* ViewController.h */,
@@ -244,6 +253,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				A15FF5141D8252FD00236074 /* LaunchScreen.storyboard in Resources */,
+				A15FF5381D82577F00236074 /* 08.jpg in Resources */,
+				A15FF53C1D8258D400236074 /* i-mine-shoucang@2x副本.png in Resources */,
+				A15FF53A1D82578400236074 /* yxlm6_1366.jpg in Resources */,
 				A15FF5111D8252FD00236074 /* Assets.xcassets in Resources */,
 				A15FF50F1D8252FD00236074 /* Main.storyboard in Resources */,
 			);
